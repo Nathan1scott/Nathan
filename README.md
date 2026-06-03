@@ -42,7 +42,6 @@ I build AI-powered healthcare solutions that save lives and improve patient outc
 ## 📫 Connect With Me
 
 - **GitHub:** [@Nathan1scott](https://github.com/Nathan1scott)
-- **LinkedIn:** [Add your LinkedIn URL]
 - **Email:** naniakwa@yahoo.com
 
 ---
